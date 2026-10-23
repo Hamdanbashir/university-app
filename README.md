@@ -35,7 +35,3 @@ The packaged data contains 1,082 distinct extracted records across 29 room ident
 ## Tests performed
 
 Browser automation checked: initial dashboard, nine AUSOM floors, room counts, faculty directory, schedule view, analytics, admin form, simulated Monday 08:30 PKT with scheduled room statuses, and console errors. The code was also checked with `node --check`.
-
-## AUSOM first-floor map
-
-The supplied AUSOM 1st-floor plan is included in `assets/ausom-floor-1.svg` (a self-contained wrapper around the compressed image). Select AUSOM → 1st Floor to view it. Classroom **A001** is selectable and updates with the timetable when records exist; without an assigned timetable it shows **No timetable data**, not an invented availability status. Markers identify the auditorium, conference room, offices, information desk, entrance, lifts, stairs, and washrooms. Other floors retain the schematic room-grid view until their plans are provided.
