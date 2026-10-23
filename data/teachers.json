@@ -1,0 +1,776 @@
+[
+  {
+    "Teacher Name": "A/Cdr. Matloob Hussain",
+    "Department": "ENG",
+    "Subject(s)": "Expository Writing",
+    "Timetable Page(s)": "25, 35, 45"
+  },
+  {
+    "Teacher Name": "Adv. Sardar Aqsam",
+    "Department": "AUSOM",
+    "Subject(s)": "Business Law",
+    "Timetable Page(s)": "11, 12"
+  },
+  {
+    "Teacher Name": "Air Cdr Khaleel Ahmed",
+    "Department": "AUSOM",
+    "Subject(s)": "Air Craft General Knowledge; Introduction to Flight Operations",
+    "Timetable Page(s)": "33, 34, 37"
+  },
+  {
+    "Teacher Name": "Air Cdr Muhammad Azam",
+    "Department": "AUSOM",
+    "Subject(s)": "Human Factors in Aviation",
+    "Timetable Page(s)": "36, 37"
+  },
+  {
+    "Teacher Name": "Air Cdr Salamat Ali",
+    "Department": "AUSOM",
+    "Subject(s)": "Aviation Law; Introduction to Aviation Management",
+    "Timetable Page(s)": "33, 38, 39"
+  },
+  {
+    "Teacher Name": "Air Cdre (R) Asif Shehzad",
+    "Department": "AUSOM",
+    "Subject(s)": "Airport & Enivronment; International Organizations in Aviation; Introduction to Flight Operations",
+    "Timetable Page(s)": "35, 36, 42"
+  },
+  {
+    "Teacher Name": "Arfa Khan",
+    "Department": "HUM",
+    "Subject(s)": "Ideology & Constitution of Pakistan; Pakistan Studies",
+    "Timetable Page(s)": "18, 48"
+  },
+  {
+    "Teacher Name": "Arshad Mehmood",
+    "Department": "AUSOM",
+    "Subject(s)": "Tax Management",
+    "Timetable Page(s)": "28, 29, 49"
+  },
+  {
+    "Teacher Name": "Ayaz Gul Kayni",
+    "Department": "AUSOM",
+    "Subject(s)": "Health Care Crisis Management; Health Delivery and Operational Management; Healthcare policy & Management",
+    "Timetable Page(s)": "50, 51, 52"
+  },
+  {
+    "Teacher Name": "Dr Hasan Raza",
+    "Department": "AUSOM",
+    "Subject(s)": "Computational Finance; Data Structures & Algorithms in Finanacial Analysis Lab",
+    "Timetable Page(s)": "48, 49"
+  },
+  {
+    "Teacher Name": "Dr. Afsheen",
+    "Department": "CS",
+    "Subject(s)": "Application of Information and Communication Technologies (ICT); Application of information and communication technologies (LAB)",
+    "Timetable Page(s)": "15"
+  },
+  {
+    "Teacher Name": "Dr. Alya Zafar",
+    "Department": "ENG",
+    "Subject(s)": "Expository Writing; Functional English",
+    "Timetable Page(s)": "16, 19, 20"
+  },
+  {
+    "Teacher Name": "Dr. Ameena Zafar",
+    "Department": "ENG",
+    "Subject(s)": "Functional English",
+    "Timetable Page(s)": "22, 23, 24"
+  },
+  {
+    "Teacher Name": "Dr. Anjum Shahzad",
+    "Department": "CS",
+    "Subject(s)": "Application of Information and Communication Technologies (ICT)",
+    "Timetable Page(s)": "43, 44"
+  },
+  {
+    "Teacher Name": "Dr. Asad Ullah",
+    "Department": "MATHS",
+    "Subject(s)": "Mathmatics and logic-II",
+    "Timetable Page(s)": "17, 20, 50, 54"
+  },
+  {
+    "Teacher Name": "Dr. Asima Saleem",
+    "Department": "AUSOM",
+    "Subject(s)": "Principles of Supply Chain Management",
+    "Timetable Page(s)": "9"
+  },
+  {
+    "Teacher Name": "Dr. Ayaz ul Haq",
+    "Department": "AUSOM",
+    "Subject(s)": "Corporate goverence",
+    "Timetable Page(s)": "32"
+  },
+  {
+    "Teacher Name": "Dr. Baber",
+    "Department": "AUSOM",
+    "Subject(s)": "Macroeconomics; Microeconomics",
+    "Timetable Page(s)": "6, 7, 17"
+  },
+  {
+    "Teacher Name": "Dr. Ghulam Moeenuddin",
+    "Department": "AUSOM",
+    "Subject(s)": "Economics of Toursim Hospitality; Macroeconomics; Microeconomics",
+    "Timetable Page(s)": "4, 5, 55"
+  },
+  {
+    "Teacher Name": "Dr. Hilal Shams",
+    "Department": "AUSOM",
+    "Subject(s)": "Principles of Supply Chain Management",
+    "Timetable Page(s)": "10"
+  },
+  {
+    "Teacher Name": "Dr. IKram Ul Haq Al Azhari",
+    "Department": "AUSOM",
+    "Subject(s)": "Fehm-e-Quran I; Fehm-e-Quran II",
+    "Timetable Page(s)": "24, 25, 33, 35"
+  },
+  {
+    "Teacher Name": "Dr. Imtiaz",
+    "Department": "MATH",
+    "Subject(s)": "Mathematics & Logics-1",
+    "Timetable Page(s)": "22, 23, 24"
+  },
+  {
+    "Teacher Name": "Dr. Kashif Nawaz Khan",
+    "Department": "AUSOM",
+    "Subject(s)": "PM Information Systems",
+    "Timetable Page(s)": "11, 12, 13"
+  },
+  {
+    "Teacher Name": "Dr. M. Awais",
+    "Department": "AUSOM",
+    "Subject(s)": "Organizational Behaviour",
+    "Timetable Page(s)": "7"
+  },
+  {
+    "Teacher Name": "Dr. M. Wahid Ayub Alzhari",
+    "Department": "HUM",
+    "Subject(s)": "Fehm-e-Quran I",
+    "Timetable Page(s)": "22, 23"
+  },
+  {
+    "Teacher Name": "Dr. M. Waseem",
+    "Department": "MATH",
+    "Subject(s)": "Mathematics & Logics-1; Mathmatics and logic-II",
+    "Timetable Page(s)": "1, 2, 3, 45"
+  },
+  {
+    "Teacher Name": "Dr. Maseehullah",
+    "Department": "AUSOM",
+    "Subject(s)": "Destination Branding; Hotel Management; Introduction to Archeology",
+    "Timetable Page(s)": "54, 55, 56"
+  },
+  {
+    "Teacher Name": "Dr. Mehtab",
+    "Department": "AUSOM",
+    "Subject(s)": "Hospitality & Concepts & Principles; Restaurant Management",
+    "Timetable Page(s)": "54, 56"
+  },
+  {
+    "Teacher Name": "Dr. Muhammad Faisal",
+    "Department": "AUSOM",
+    "Subject(s)": "Business Analytics; Strategic management for tourism and hospitility",
+    "Timetable Page(s)": "12, 56"
+  },
+  {
+    "Teacher Name": "Dr. Nasir Amin",
+    "Department": "HUM",
+    "Subject(s)": "Fehm-e-Quran I; Islamic Studies & Ethics",
+    "Timetable Page(s)": "1, 2, 14, 21"
+  },
+  {
+    "Teacher Name": "Dr. Nida Aman",
+    "Department": "AUSOM",
+    "Subject(s)": "Financial Accounting II",
+    "Timetable Page(s)": "38, 39"
+  },
+  {
+    "Teacher Name": "Dr. Sameen Aftab",
+    "Department": "AUSOM",
+    "Subject(s)": "Financial risk Management; Strategic Financial Management",
+    "Timetable Page(s)": "30, 31, 32"
+  },
+  {
+    "Teacher Name": "Dr. Shah Farrukh",
+    "Department": "AUSOM",
+    "Subject(s)": "Introduction to Psychology & Organizational Behavior; Principles of Management",
+    "Timetable Page(s)": "14, 25, 45"
+  },
+  {
+    "Teacher Name": "Dr. Sonia Bibi",
+    "Department": "AUSOM",
+    "Subject(s)": "Financial risk Management; Introduction to Business Finance",
+    "Timetable Page(s)": "5, 6, 7, 11, 12, 13"
+  },
+  {
+    "Teacher Name": "Dr. Tahira",
+    "Department": "AUSOM",
+    "Subject(s)": "Financial Modeling",
+    "Timetable Page(s)": "31"
+  },
+  {
+    "Teacher Name": "Dr. Tariq Hussain",
+    "Department": "MATH",
+    "Subject(s)": "Mathematics & Logics-1",
+    "Timetable Page(s)": "14, 15"
+  },
+  {
+    "Teacher Name": "Dr. Tariq Jang",
+    "Department": "AUSOM",
+    "Subject(s)": "Heritage Management; International Business in Tourism & hospitality; Introduction to Tourism & Hospitality",
+    "Timetable Page(s)": "53, 54, 56"
+  },
+  {
+    "Teacher Name": "Dr.Amir Ishaque",
+    "Department": "AUSOM",
+    "Subject(s)": "Organizational Behaviour",
+    "Timetable Page(s)": "5, 6"
+  },
+  {
+    "Teacher Name": "Dr.Farooq Rasheed",
+    "Department": "AUSOM",
+    "Subject(s)": "Macroeconomics",
+    "Timetable Page(s)": "28, 29"
+  },
+  {
+    "Teacher Name": "Dr.Habib",
+    "Department": "AUSOM",
+    "Subject(s)": "Financial Modeling",
+    "Timetable Page(s)": "30"
+  },
+  {
+    "Teacher Name": "Dr.Hasan",
+    "Department": "AUSOM",
+    "Subject(s)": "Financial Management in Tourism & Hospitality",
+    "Timetable Page(s)": "56"
+  },
+  {
+    "Teacher Name": "Dr.Muzammel Shah",
+    "Department": "AUSOM",
+    "Subject(s)": "Business Ethics; Human Resource Management; Training and Development",
+    "Timetable Page(s)": "8, 9, 11, 12, 13"
+  },
+  {
+    "Teacher Name": "farah Noreen",
+    "Department": "HUM",
+    "Subject(s)": "Islamic Studies & Ethics",
+    "Timetable Page(s)": "36, 37"
+  },
+  {
+    "Teacher Name": "Farhan Abbasi",
+    "Department": "HUM",
+    "Subject(s)": "Ideology & Constitution of Pakistan; Pakistan Studies",
+    "Timetable Page(s)": "19, 36, 37"
+  },
+  {
+    "Teacher Name": "Gp Capt Ahmed Farooq",
+    "Department": "AUSOM",
+    "Subject(s)": "Mass & Balance",
+    "Timetable Page(s)": "40, 41"
+  },
+  {
+    "Teacher Name": "Mr Shoaib Shahid",
+    "Department": "AUSOM",
+    "Subject(s)": "Financial Accounting I",
+    "Timetable Page(s)": "22"
+  },
+  {
+    "Teacher Name": "Mr Tariq Aziz",
+    "Department": "HUM",
+    "Subject(s)": "Fehm-e-Quran I; Fehm-e-Quran II; Islamic Studies & Ethics",
+    "Timetable Page(s)": "34, 43, 44, 45"
+  },
+  {
+    "Teacher Name": "Mr. Abdul Rafay",
+    "Department": "AUSOM",
+    "Subject(s)": "Financial Reporting 1; Strategic corporate reporting",
+    "Timetable Page(s)": "26, 27, 32"
+  },
+  {
+    "Teacher Name": "Mr. Abdullah Jamal",
+    "Department": "AUSOM",
+    "Subject(s)": "Airport Operations; Introduction to Aviation Management",
+    "Timetable Page(s)": "34, 35"
+  },
+  {
+    "Teacher Name": "Mr. Adeel Mehmood",
+    "Department": "AUSOM",
+    "Subject(s)": "Auditing",
+    "Timetable Page(s)": "28, 29"
+  },
+  {
+    "Teacher Name": "Mr. Aftab Ahmed",
+    "Department": "AUSOM",
+    "Subject(s)": "Airline Finance; Financial Management",
+    "Timetable Page(s)": "40, 41, 48"
+  },
+  {
+    "Teacher Name": "Mr. Atif Khalil",
+    "Department": "AUSOM",
+    "Subject(s)": "Auditing; Financial Reporting 1",
+    "Timetable Page(s)": "46, 47, 49"
+  },
+  {
+    "Teacher Name": "Mr. Awais Sarwar",
+    "Department": "MATH",
+    "Subject(s)": "Mathematics & Logics-1",
+    "Timetable Page(s)": "18, 19"
+  },
+  {
+    "Teacher Name": "Mr. Aziz Zamir",
+    "Department": "AUSOM",
+    "Subject(s)": "Financial Accounting I; Introduction to Business Finance",
+    "Timetable Page(s)": "17, 35"
+  },
+  {
+    "Teacher Name": "Mr. Bilal Ahmed",
+    "Department": "MATH",
+    "Subject(s)": "Mathematics & Logics-1",
+    "Timetable Page(s)": "33, 34"
+  },
+  {
+    "Teacher Name": "Mr. Blaghet",
+    "Department": "CS",
+    "Subject(s)": "Application of information and communication technologies (LAB)",
+    "Timetable Page(s)": "43, 44"
+  },
+  {
+    "Teacher Name": "Mr. Danial",
+    "Department": "AUSOM",
+    "Subject(s)": "Accounting information system; Cost Accounting",
+    "Timetable Page(s)": "27, 30, 31"
+  },
+  {
+    "Teacher Name": "Mr. Dilnawaz Ahmed",
+    "Department": "HUM",
+    "Subject(s)": "Islamic Studies & Ethics",
+    "Timetable Page(s)": "22, 23, 24, 33"
+  },
+  {
+    "Teacher Name": "Mr. Faheem Ahmed Qureshi",
+    "Department": "AUSOM",
+    "Subject(s)": "Commercial Banking and Lending; Fintech & Financial Transformation",
+    "Timetable Page(s)": "30, 31, 48"
+  },
+  {
+    "Teacher Name": "Mr. Farukh Rizwi",
+    "Department": "AUSOM",
+    "Subject(s)": "Cost Accounting",
+    "Timetable Page(s)": "26"
+  },
+  {
+    "Teacher Name": "Mr. Ibrahim",
+    "Department": "HUM",
+    "Subject(s)": "Fehm-e-Quran I; Fehm-e-Quran II",
+    "Timetable Page(s)": "16, 18"
+  },
+  {
+    "Teacher Name": "Mr. Imran Hameed",
+    "Department": "AUSOM",
+    "Subject(s)": "Business policy and strategic management; Principles of Management",
+    "Timetable Page(s)": "13, 15, 19"
+  },
+  {
+    "Teacher Name": "Mr. Imran Parvez Khan",
+    "Department": "MATH",
+    "Subject(s)": "Mathematics & Logics-1",
+    "Timetable Page(s)": "53"
+  },
+  {
+    "Teacher Name": "Mr. Mahmood ul Hassan",
+    "Department": "CS",
+    "Subject(s)": "Application of Information and Communication Technologies (ICT); Application of information and communication technologies (LAB)",
+    "Timetable Page(s)": "1"
+  },
+  {
+    "Teacher Name": "Mr. Malik Usman",
+    "Department": "AUSOM",
+    "Subject(s)": "Entrepreneurship; Principles of Management",
+    "Timetable Page(s)": "8, 18, 48, 53"
+  },
+  {
+    "Teacher Name": "Mr. Masood Akram",
+    "Department": "HUM",
+    "Subject(s)": "Islamic Studies & Ethics",
+    "Timetable Page(s)": "8"
+  },
+  {
+    "Teacher Name": "Mr. Muhammad Shahabu Din",
+    "Department": "HUM",
+    "Subject(s)": "Ideology & Constitution of Pakistan; Pakistan Studies",
+    "Timetable Page(s)": "21, 25, 35, 45"
+  },
+  {
+    "Teacher Name": "Mr. Muhammad Waseem",
+    "Department": "AUSOM",
+    "Subject(s)": "Advanced topics in project Management",
+    "Timetable Page(s)": "11, 12, 13"
+  },
+  {
+    "Teacher Name": "Mr. Muhammad Zaid",
+    "Department": "AUSOM",
+    "Subject(s)": "Managerial Accounting",
+    "Timetable Page(s)": "28, 29"
+  },
+  {
+    "Teacher Name": "Mr. Muhammad Zubair",
+    "Department": "AUSOM",
+    "Subject(s)": "Financial Accounting II; Introduction to Business Finance",
+    "Timetable Page(s)": "25, 45, 51, 55"
+  },
+  {
+    "Teacher Name": "Mr. Mustehsan Elahi",
+    "Department": "AUSOM",
+    "Subject(s)": "Financial Accounting II; Financial Institutions and Markets",
+    "Timetable Page(s)": "28, 29, 49, 51, 55"
+  },
+  {
+    "Teacher Name": "Mr. Nouman Ali",
+    "Department": "AUSOM",
+    "Subject(s)": "Financial Institutions and Markets; Financial Management; Investment and portfilio management",
+    "Timetable Page(s)": "8, 9, 10, 11, 12, 13"
+  },
+  {
+    "Teacher Name": "Mr. Nouman Anwar",
+    "Department": "AUSOM",
+    "Subject(s)": "Financial Database Systems; Financial Database Systems Lab",
+    "Timetable Page(s)": "49"
+  },
+  {
+    "Teacher Name": "Mr. Raees Khan",
+    "Department": "AUSOM",
+    "Subject(s)": "Aviation Economics; Micro & Managerial Economics",
+    "Timetable Page(s)": "25, 38, 39, 45"
+  },
+  {
+    "Teacher Name": "Mr. Rehan Sheikh",
+    "Department": "MATH",
+    "Subject(s)": "Mathematics & Logics-1",
+    "Timetable Page(s)": "43, 44"
+  },
+  {
+    "Teacher Name": "Mr. Rizwan Ali",
+    "Department": "AUSOM",
+    "Subject(s)": "Management Information System",
+    "Timetable Page(s)": "5, 6, 7, 17"
+  },
+  {
+    "Teacher Name": "Mr. Rizwan Yousaf",
+    "Department": "MATHS",
+    "Subject(s)": "Mathmatics and logic-II",
+    "Timetable Page(s)": "5, 6, 7"
+  },
+  {
+    "Teacher Name": "Mr. Saeed ur Rehman",
+    "Department": "HUM",
+    "Subject(s)": "Fehm-e-Quran I; Islamic Studies & Ethics",
+    "Timetable Page(s)": "1, 2, 3, 44"
+  },
+  {
+    "Teacher Name": "Mr. Sajid Yaqoob",
+    "Department": "AUSOM",
+    "Subject(s)": "Financial Accounting I",
+    "Timetable Page(s)": "23, 24, 43, 44"
+  },
+  {
+    "Teacher Name": "Mr. Suleman Saboor",
+    "Department": "CS",
+    "Subject(s)": "Application of Information and Communication Technologies (ICT); Application of information and communication technologies (LAB)",
+    "Timetable Page(s)": "2, 3"
+  },
+  {
+    "Teacher Name": "Mr. Taqi Jawad",
+    "Department": "AUSOM",
+    "Subject(s)": "Operations Management",
+    "Timetable Page(s)": "10"
+  },
+  {
+    "Teacher Name": "Mr. Uman Sarwar",
+    "Department": "HUM",
+    "Subject(s)": "Islamic Studies & Ethics",
+    "Timetable Page(s)": "14, 15"
+  },
+  {
+    "Teacher Name": "Mr. Umar Farooq",
+    "Department": "HUM",
+    "Subject(s)": "Fehm-e-Quran II",
+    "Timetable Page(s)": "4, 20"
+  },
+  {
+    "Teacher Name": "Mr. Uzair Ali",
+    "Department": "HUM",
+    "Subject(s)": "Fehm-e-Quran I",
+    "Timetable Page(s)": "15, 19"
+  },
+  {
+    "Teacher Name": "Mr.Salman Athar",
+    "Department": "AUSOM",
+    "Subject(s)": "Management of Air Cargo",
+    "Timetable Page(s)": "38, 39"
+  },
+  {
+    "Teacher Name": "Ms. Amna Aslam",
+    "Department": "AUSOM",
+    "Subject(s)": "Brand Management; Marketing Management; Principles of Marketing",
+    "Timetable Page(s)": "4, 9, 10, 11, 12, 13"
+  },
+  {
+    "Teacher Name": "Ms. Armish Ejaz",
+    "Department": "CS",
+    "Subject(s)": "Application of information and communication technologies (LAB)",
+    "Timetable Page(s)": "34, 53"
+  },
+  {
+    "Teacher Name": "Ms. Attia Naseem",
+    "Department": "MATH",
+    "Subject(s)": "Mathmatics and logic-II",
+    "Timetable Page(s)": "26, 27"
+  },
+  {
+    "Teacher Name": "MS. Ayesha Zeeshan",
+    "Department": "CS",
+    "Subject(s)": "Application of Information and Communication Technologies (ICT)",
+    "Timetable Page(s)": "22, 23"
+  },
+  {
+    "Teacher Name": "Ms. Bushra Karim Mirza",
+    "Department": "AUSOM",
+    "Subject(s)": "Financial Accounting II; Managerial Accounting & Cost Control",
+    "Timetable Page(s)": "4, 9, 10"
+  },
+  {
+    "Teacher Name": "Ms. Fazeelat Batool",
+    "Department": "AUSOM",
+    "Subject(s)": "Data Structures & Algorithms in Finanacial Analysis; Programming Fundamentals; Programming Fundamentals Lab",
+    "Timetable Page(s)": "46, 47, 48"
+  },
+  {
+    "Teacher Name": "Ms. Ghanwa qudoos",
+    "Department": "CS",
+    "Subject(s)": "Application of information and communication technologies (LAB)",
+    "Timetable Page(s)": "24, 33"
+  },
+  {
+    "Teacher Name": "Ms. Hafsa Ali",
+    "Department": "HUM",
+    "Subject(s)": "Ideology & Constitution of Pakistan",
+    "Timetable Page(s)": "1, 2, 14"
+  },
+  {
+    "Teacher Name": "Ms. Hina Naz",
+    "Department": "AUSOM",
+    "Subject(s)": "Special topic in health care",
+    "Timetable Page(s)": "52"
+  },
+  {
+    "Teacher Name": "Ms. Humaira Anwar",
+    "Department": "AUSOM",
+    "Subject(s)": "Operations Management",
+    "Timetable Page(s)": "9"
+  },
+  {
+    "Teacher Name": "Ms. Kainat Abdul Qudoos",
+    "Department": "CS",
+    "Subject(s)": "Application of information and communication technologies (LAB)",
+    "Timetable Page(s)": "22, 23"
+  },
+  {
+    "Teacher Name": "Ms. Kainat Shahnawaz",
+    "Department": "AUSOM",
+    "Subject(s)": "Principles of Marketing",
+    "Timetable Page(s)": "25, 38, 39, 49"
+  },
+  {
+    "Teacher Name": "Ms. Maria Azam",
+    "Department": "ENG",
+    "Subject(s)": "Functional English",
+    "Timetable Page(s)": "1, 2"
+  },
+  {
+    "Teacher Name": "Ms. Mawra hussain",
+    "Department": "AUSOM",
+    "Subject(s)": "Adversting and Event Management; Principles of Marketing",
+    "Timetable Page(s)": "11, 12, 13, 16, 20"
+  },
+  {
+    "Teacher Name": "Ms. Mehak Liaquat",
+    "Department": "ENG",
+    "Subject(s)": "Functional English",
+    "Timetable Page(s)": "3, 43, 44, 53"
+  },
+  {
+    "Teacher Name": "MS. Mehreen Iftikhar",
+    "Department": "HUM",
+    "Subject(s)": "Civics and community Engagement; Sociology",
+    "Timetable Page(s)": "4, 8, 16"
+  },
+  {
+    "Teacher Name": "Ms. Mominah",
+    "Department": "AUSOM",
+    "Subject(s)": "Basic Environmental & Occupational Health care; Health Care Promotion Advocacy & Social Mobilization",
+    "Timetable Page(s)": "50, 52"
+  },
+  {
+    "Teacher Name": "Ms. Nadia Daud",
+    "Department": "AUSOM",
+    "Subject(s)": "Human Resource Management",
+    "Timetable Page(s)": "30, 31, 38, 39"
+  },
+  {
+    "Teacher Name": "Ms. Nayab",
+    "Department": "PHY",
+    "Subject(s)": "Introduction to Environmental Science",
+    "Timetable Page(s)": "26, 27, 36, 37"
+  },
+  {
+    "Teacher Name": "Ms. Noor U Sehar",
+    "Department": "PHY",
+    "Subject(s)": "Introduction to Environmental Science",
+    "Timetable Page(s)": "46, 47, 50, 54"
+  },
+  {
+    "Teacher Name": "Ms. Novaira Ejaz",
+    "Department": "AUSOM",
+    "Subject(s)": "Introduction to Business Finance",
+    "Timetable Page(s)": "26, 27, 46, 47"
+  },
+  {
+    "Teacher Name": "Ms. Rizwana Yasmeen",
+    "Department": "CS",
+    "Subject(s)": "Application of Information and Communication Technologies (ICT); Application of information and communication technologies (LAB)",
+    "Timetable Page(s)": "14"
+  },
+  {
+    "Teacher Name": "Ms. Sadia Khan",
+    "Department": "AUSOM",
+    "Subject(s)": "E-commerce & Digital Marketing; International business management; Principles of Marketing; management",
+    "Timetable Page(s)": "11, 12, 13, 51, 55"
+  },
+  {
+    "Teacher Name": "Ms. Saima Yasmeen",
+    "Department": "HUM",
+    "Subject(s)": "Civics and community Engagement",
+    "Timetable Page(s)": "21, 50, 54"
+  },
+  {
+    "Teacher Name": "Ms. Saira Khan",
+    "Department": "HUM",
+    "Subject(s)": "Civics and community Engagement",
+    "Timetable Page(s)": "26, 27, 36, 37"
+  },
+  {
+    "Teacher Name": "Ms. Sana Farzand Ali",
+    "Department": "AUSOM",
+    "Subject(s)": "Principles of Management; Stratagic Management in Airlines",
+    "Timetable Page(s)": "22, 42, 43, 44"
+  },
+  {
+    "Teacher Name": "Ms. Sara Abid",
+    "Department": "AUSOM",
+    "Subject(s)": "Health Care Analytics; Healthcare Management Information system; Managing Operations in Health Care Org; Quality Management in Health Care",
+    "Timetable Page(s)": "50, 51, 52"
+  },
+  {
+    "Teacher Name": "Ms. Sidra Shabbir",
+    "Department": "HUM",
+    "Subject(s)": "Ideology & Constitution of Pakistan",
+    "Timetable Page(s)": "3, 15"
+  },
+  {
+    "Teacher Name": "Ms. Sidra Tul Muntaha",
+    "Department": "PYH",
+    "Subject(s)": "Introduction to Environmental Science",
+    "Timetable Page(s)": "5, 6, 7, 21"
+  },
+  {
+    "Teacher Name": "Ms. Sonia Kanwal",
+    "Department": "ENG",
+    "Subject(s)": "Expository Writing",
+    "Timetable Page(s)": "4"
+  },
+  {
+    "Teacher Name": "Ms. Sumera Khan",
+    "Department": "AUSOM",
+    "Subject(s)": "Perfo & Comp; Principles of Management",
+    "Timetable Page(s)": "1, 2, 3, 11, 12, 13"
+  },
+  {
+    "Teacher Name": "Ms. Syeda Rida Zainab",
+    "Department": "AUSOM",
+    "Subject(s)": "Intro to Business Analytics; Programming Fundamentals; Programming Fundamentals Lab; Programming Fundamentals for Analytics",
+    "Timetable Page(s)": "16, 19, 20"
+  },
+  {
+    "Teacher Name": "Ms. Syeda Tayyba",
+    "Department": "HUM",
+    "Subject(s)": "Fehm-e-Quran I; Islamic Studies & Ethics",
+    "Timetable Page(s)": "43, 53"
+  },
+  {
+    "Teacher Name": "Ms. Tahreem Zarar",
+    "Department": "HUM",
+    "Subject(s)": "Civics and community Engagement",
+    "Timetable Page(s)": "46, 47"
+  },
+  {
+    "Teacher Name": "Ms. Tayyba Sarfaraz",
+    "Department": "AUSOM",
+    "Subject(s)": "Human Resource Management; Principles of Management; Self Development",
+    "Timetable Page(s)": "8, 10, 20, 51, 55"
+  },
+  {
+    "Teacher Name": "Ms. Usra",
+    "Department": "AUSOM",
+    "Subject(s)": "Introduction to Business Finance",
+    "Timetable Page(s)": "21"
+  },
+  {
+    "Teacher Name": "Ms. Warda",
+    "Department": "MATHS",
+    "Subject(s)": "Mathmatics and logic-II",
+    "Timetable Page(s)": "36, 37"
+  },
+  {
+    "Teacher Name": "Ms.Ayesha Sarfraz",
+    "Department": "AUSOM",
+    "Subject(s)": "Business Ethics; Principles of Management",
+    "Timetable Page(s)": "23, 24, 48"
+  },
+  {
+    "Teacher Name": "Ms.Sahrish Bashir",
+    "Department": "CS",
+    "Subject(s)": "Application of Information and Communication Technologies (ICT); Application of information and communication technologies (LAB)",
+    "Timetable Page(s)": "18, 19"
+  },
+  {
+    "Teacher Name": "Nomair Ahmed Sulheri",
+    "Department": "AUSOM",
+    "Subject(s)": "Airline Marketing",
+    "Timetable Page(s)": "40, 41"
+  },
+  {
+    "Teacher Name": "Rahat Naseem",
+    "Department": "ENG",
+    "Subject(s)": "Functional English",
+    "Timetable Page(s)": "14, 15, 18"
+  },
+  {
+    "Teacher Name": "Sadaf Iftikhar",
+    "Department": "ENG",
+    "Subject(s)": "Functional English",
+    "Timetable Page(s)": "33, 34"
+  },
+  {
+    "Teacher Name": "Zarafshan Tahir",
+    "Department": "HUM",
+    "Subject(s)": "Pakistan Studies",
+    "Timetable Page(s)": "8, 11, 12"
+  },
+  {
+    "Teacher Name": "Zeeshan Ali",
+    "Department": "AUSOM",
+    "Subject(s)": "Corporate and Business Law",
+    "Timetable Page(s)": "28, 29"
+  }
+]
